@@ -1,0 +1,5 @@
+1)Internet- Internet is a group of networks interconnected to support exchange of information. Example: 2 computers connected.
+2)Web browser- Browser is a repository to access websites. Example:Google
+3)Browser Engine- A browser engine renders the HTML to more human and user interactive in web browser. Example: Gecko, Blink
+4)Static Site- Sites whose data is static and does not update on daily basis. Example: School websites
+5)Dynamic Site- Sites where user can exchange data and which renders new information. Example: Social Media apps
